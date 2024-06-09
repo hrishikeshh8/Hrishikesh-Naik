@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center">
+  <img width='100%' height='400vh' display="block" object-fit"cover" opacity=1 src='https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg'/>
+</p>
+</br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikeshh8&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshh8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishikeshh8" alt="hrishikeshh8" /></a> </p>
